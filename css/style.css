@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 100px;
+    display: flex;
+}
+.logo{
+    width: 30%;
+    background-color: blue;
+    color: bisque;
+    text-align: center;
+}
+.nav{
+    width: 70%;
+    background-color: burlywood;
+    color: black;
+    text-align: center;
+}
+.center{
+    padding-top: 25px;
+}
+.header_bar{
+    background-color: rgb(206, 110, 110);
+    color: aliceblue;
+    height: 80px;
+    text-align: center;
+}
+.main{
+    width: 100%;
+    display: flex;
+}
+.left_box{
+    width: 25%;
+    background-color: blueviolet;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    height: 500px;
+
+}
+.middle_box{
+    width: 50%;
+    background-color: rgb(36, 10, 60);
+    color: rgb(240, 237, 233);
+    text-align: center;
+    height: 500px;
+}
+.center_m{
+    padding-top: 50px;
+}
+.right_box{
+    width: 25%;
+    background-color: rgb(121, 86, 153);
+    color: rgb(243, 240, 238);
+    text-align: center;
+    height: 500px;
+}
+.center_b{
+    padding-top: 250px;
+}
+.top{
+    height: 30%;
+    background-color: aliceblue;
+    color: black;
+
+}
+.t{
+    padding-top: 50px;
+}
+.center_box{
+    height: 40%;
+    background-color: brown;
+    display: flex;
+}
+.middle_left{
+    height: 100%;
+    width: 50%;
+    background-color: darkgray;
+    color: black;
+}
+.l{
+    padding-top: 60px;
+}
+.right{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(5, 9, 2);
+}
+.r{
+    padding-top: 60px;
+}
+.buttom{
+    height: 30%;
+    background-color: blue;
+}
+.bu{
+    padding-top: 60px;
+}
+footer{
+    background-color: rgb(142, 5, 5);
+    height: 100px;
+    text-align: center;
+}
+.f{
+    padding-top: 40px;
+}
